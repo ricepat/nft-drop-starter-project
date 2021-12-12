@@ -1,0 +1,19 @@
+{
+  "name": "Owl Familar",
+  "symbol": "",
+  "image": "3.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "3UGRHCNciE6qYWBjG8XwA3vnr7fXXUr5irfSJGF5vnT5",
+        "share": 100
+      }
+    ]
+  }
+}
